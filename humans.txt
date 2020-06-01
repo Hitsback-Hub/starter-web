@@ -8,7 +8,7 @@
 This is the new line
 # THANKS
 
-    <name>
+   some changes on this file for checking rebase working on or not....
 
 # TECHNOLOGY COLOPHON
 
