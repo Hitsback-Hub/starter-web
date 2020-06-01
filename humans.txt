@@ -14,4 +14,8 @@ This is the new line
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
     AWS, Azure
+=======
+    Docker,Kubernetes
+>>>>>>> develop
